@@ -1,0 +1,7 @@
+Numpy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+wordcloud
+plotly.express 
