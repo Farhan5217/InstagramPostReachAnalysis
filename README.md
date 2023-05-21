@@ -38,9 +38,11 @@ Requirements [https://github.com/Farhan5217/InstagramPostReachAnalysis/blob/main
 
 ## Glimpes of the project
 
-![App Screenshot](E:\Inst1.PNG)
+![Screenshot](Inst1.PNG)
 
-![App Screenshot](E:\inst2.PNG)
+
+
+![Screenshot](inst2.PNG)
 
 
 ## Results
