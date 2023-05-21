@@ -35,6 +35,14 @@ Dataset link [https://github.com/Farhan5217/InstagramPostReachAnalysis/blob/main
 Make sure to meet the necessary Requirements 
 
 Requirements [https://github.com/Farhan5217/InstagramPostReachAnalysis/blob/main/requirement.txt]
+
+## Glimpes of the project
+
+![App Screenshot](E:\Inst1.PNG)
+
+![App Screenshot](E:\inst2.PNG)
+
+
 ## Results
 
 The analysis of the Instagram dataset revealed several key findings:
