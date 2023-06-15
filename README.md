@@ -10,7 +10,7 @@
 
  Understanding the reach of posts is crucial for social media marketers and influencers to evaluate their impact and make informed decisions regarding their content strategy.
 
- The project includes two main components:
+ The project includes two main components
 
 #### 1) Instagram Reach Analysis: 
 
