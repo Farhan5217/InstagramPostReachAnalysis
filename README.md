@@ -14,7 +14,7 @@
 
 #### 1) Instagram Reach Analysis: 
 
-This component analyzes the reach of Instagram posts based on various factors such as engagement, hashtags used, post frequency, and follower demographics. By gathering data and performing exploratory data analysis (EDA), we can gain insights into the factors influencing post reach.
+This component analyzes the reach of Instagram posts based on various factors such as engagement, hashtags used, post frequency, and follower demographics. By gathering data and performing exploratory data analysis (EDA), we can gain insights into the factors influencing post-reach.
 
 #### 2) Reach Prediction:
 
